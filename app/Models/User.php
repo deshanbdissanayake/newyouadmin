@@ -122,11 +122,4 @@ class User extends Authenticatable
         return true;
     }
 
-    /**
-     * Get the requisitions for the user.
-     */
-    public function requisitions()
-    {
-        return $this->hasMany(Requisition::class);
-    }
 }
