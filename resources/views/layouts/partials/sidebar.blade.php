@@ -1,7 +1,7 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="{{ url('/home') }}" class="brand-link">
-        <span class="brand-text font-weight-light">LANMIC Internal</span>
+        <span class="brand-text font-weight-light">NEWYOU Internal</span>
     </a>
 
     <!-- Sidebar -->
